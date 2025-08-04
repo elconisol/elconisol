@@ -83,10 +83,3 @@ I am a full-stack blockchain developer with 8+ years of experience, currently le
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
   </p>
-
-##
-##### GitHub status
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=felix_colbert&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix_colbert&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
-</p>
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
