@@ -1,6 +1,6 @@
 ## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Full Stack | Blockchain | AI Developer
 
-<p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Aiden-Mori" />
+<p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Felix-Colbert" />
 
 I am a full-stack blockchain developer with 8+ years of experience, currently leading a team of front-end, back-end, AI, and smart contract developers. My portfolio includes successful DeFi platforms, NFT marketplaces, Web3 applications, and blockchain-based games built on Ethereum, Polygon, and Binance Smart Chain. I bring deep expertise in programming languages, frameworks, and database structures, and am adept at solving complex technical challenges. Recently, I’ve integrated AI technologies—such as LLMs and machine learning models—into Web3 projects to enhance automation, personalization, and intelligent data analysis. My commitment to staying at the forefront of both blockchain and AI ensures I consistently deliver innovative, high-quality solutions that add significant value to any team.
 
@@ -87,6 +87,6 @@ I am a full-stack blockchain developer with 8+ years of experience, currently le
 ##
 ##### GitHub status
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aiden77mori&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden77mori&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=felix_colbert&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix_colbert&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
 </p>
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
