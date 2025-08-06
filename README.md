@@ -21,7 +21,7 @@ I am a full-stack blockchain developer with 8+ years of experience, currently le
 - Node.js / Express.js / PHP / Nest.js
 - Ionic / ReactNative / Flutter
 - HTML5 / Bootstrap / CSS3 / SCSS / TailwindCSS
-- PostgreSQL / MySQL / MongoDB / Firebase / Supabase
+- PostgreSQL / MySQL / MongoDB / Firebase / Supabase/ Lua
 - AWS / Digital Ocean / Nginx / Heroku / Netlify / Vercel
 - Lovable / V0 / Replit / WeWeb
 </p>
