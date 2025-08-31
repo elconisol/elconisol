@@ -14,15 +14,15 @@ Experienced Senior Full-Stack & Blockchain Developer with 8 years of building se
     
 - DEX / DEFI / NFT / Token Generation
 
-- Blockchain Game (P2E, M2E, etc...), Metaverse
+- Blockchain Game (P2E, M2E, etc...)
  
 2. Full Stack
-- React / Next / Angular / Vue / Svelte / Typescript
+- React / Next / Vue / Svelte / Typescript
 - Node.js / Express.js / PHP / Nest.js
 - Ionic / ReactNative / Flutter
-- HTML5 / Bootstrap / CSS3 / SCSS / TailwindCSS
-- PostgreSQL / MySQL / MongoDB / Firebase / Supabase/ Lua
-- AWS / Digital Ocean / Nginx / Heroku / Netlify / Vercel
+- HTML5 / CSS3 / SCSS / TailwindCSS
+- PostgreSQL / MySQL / MongoDB / Firebase
+- AWS / Nginx / Heroku / Netlify / Vercel
 - Lovable / V0 / Replit / WeWeb
 </p>
 
