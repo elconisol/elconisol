@@ -4,7 +4,7 @@ Experienced Senior Full-Stack & Blockchain Developer with 8 years of building se
 
 
 ## Web3 && Web2 Skill Set
-
+<img align="right" width="550" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/image03.gif" />
 1. Blockchain
 - Solidity / Rust / Haskell
  
