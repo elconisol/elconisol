@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Full Stack | Blockchain 
+## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Full Stack | Blockchain Developer
 
 Experienced **Senior Full-Stack & Blockchain Developer** with 8 years of building secure, scalable, and user-friendly applications. Skilled in smart contracts, dApps, and blockchain platforms like Ethereum, Solana, and Bitcoin-based networks. I’m known for being reliable, approachable, and easy to work with—always focused on turning complex technical challenges into simple, effective solutions that help clients succeed. What makes me stand out is combining strong technical skills with a genuine commitment to teamwork and client goals, making me a trusted partner for innovative and long-term projects.
 
